@@ -1,3 +1,10 @@
+First of make sure to convert the excel worksheet file into a csv file for the code to run properly 
+
+
+
+
+
+
 Explanation
 Data Loading: We load the dataset using Pandas and explore its basic properties to understand its structure.
 
